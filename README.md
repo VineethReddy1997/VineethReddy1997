@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Advanced Full Stack Data Science Bootcamp**
 
-- 🤝 I’m looking to Contribute **ML,DL,NlP and Cv projects for New Learners**
+- 🤝 I’m looking to Contribute **Python,Statistics,ML,DL,NlP,CV contents and Development End to End projects for New Learners**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VineethReddy1997](https://github.com/VineethReddy1997)
 
-- 👨‍💻😎 Currently I am Working on Creating **Websites for Projects (Link will be Comming Soon.......)
+- 👨‍💻😎 Currently I am Working on Creating Websites forContent and  Projects (Link will be Comming Soon..)
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning and Nlp**
 
