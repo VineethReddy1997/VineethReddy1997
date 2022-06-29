@@ -1,5 +1,6 @@
 <h1 align="center">Hey👋, I'm Vineeth Reddy</h1>
 <h3 align="center">I'm Working as a Data Analyst and  Looking to Passionate  Data Science/ Machine Learning Engineer  from India</h3>
+<img align="right" alt="Coding" width="400" src="https://images.prismic.io/smarttask/398a3853-3b15-4dd7-937e-b883f9970e5f_productivity+improvement+techniques.gif?auto=compress,format">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineethreddy1997&label=Profile%20views&color=0e75b6&style=flat" alt="vineethreddy1997" /> </p>
 
@@ -13,8 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VineethReddy1997](https://github.com/VineethReddy1997)
 
-- 👨‍💻😎![InternetInternetDownGIF](https://user-images.githubusercontent.com/91186184/176351867-e85a1f7f-93c5-4ee4-ad0a-788cc48f71b3.gif)
-Currently I am Working on Creating Websites for Projects (Link will be Comming Soon.......)
+- 👨‍💻😎 Currently I am Working on Creating **Websites for Projects (Link will be Comming Soon.......)
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning and Nlp**
 
