@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VineethReddy1997](https://github.com/VineethReddy1997)
 
-- 👨‍💻😎 Currently I am Working on **Creating Websites for Content and  Projects (Link will be Comming Soon..)
+- 👨‍💻 Currently I am Working on **Creating Websites for Content Development and Data Science Projects (Link will be Comming Soon..)
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning and Nlp**
 
