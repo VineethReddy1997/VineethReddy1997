@@ -1,5 +1,6 @@
 <h1 align="center">Hey👋, I'm Vineeth Reddy</h1>
-<img height="400" src = "https://github.com/VineethReddy1997/VineethReddy1997/blob/master/Yellow%20%26%20White%20Minimal.gif"/>
+<img align="center" alt="Banner" width="1000" height="500"  src = "https://github.com/VineethReddy1997/VineethReddy1997/blob/master/Yellow%20%26%20White%20Minimal.gif"(https://rishavchanda.io)
+/>
 <h3 align="center">I'm Working as a Data Analyst and  Looking to Passionate  Data Science/ Machine Learning Engineer  from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.prismic.io/smarttask/398a3853-3b15-4dd7-937e-b883f9970e5f_productivity+improvement+techniques.gif?auto=compress,format">
 
