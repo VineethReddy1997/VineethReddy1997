@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Vineeth Reddy</h1>
-<img  width="1200"  height ="400" src = "https://github.com/VineethReddy1997/VineethReddy1997/blob/master/Yellow%20%26%20White%20Minimal%20Creative%20Portfolio%20Presentation%20(1).jpg"/>
+<img  width="1100"  height ="550" src = "https://github.com/VineethReddy1997/VineethReddy1997/blob/master/7093987023%20(1).jpg"/>
 <h3 align="center">Passionate Machine Learning Engineer  from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.prismic.io/smarttask/398a3853-3b15-4dd7-937e-b883f9970e5f_productivity+improvement+techniques.gif?auto=compress,format">
 
