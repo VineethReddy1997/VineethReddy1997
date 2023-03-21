@@ -1,23 +1,19 @@
 <h1 align="center">Hey👋, I'm Vineeth Reddy</h1>
 <img  width="1200"  height ="400" src = "https://github.com/VineethReddy1997/VineethReddy1997/blob/master/Yellow%20%26%20White%20Minimal%20Creative%20Portfolio%20Presentation%20(1).jpg"/>
-<h3 align="center">I'm Working as a Data Analyst and  Looking to Passionate  Data Science/ Machine Learning Engineer  from India</h3>
+<h3 align="center">Passionate Machine Learning Engineer  from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.prismic.io/smarttask/398a3853-3b15-4dd7-937e-b883f9970e5f_productivity+improvement+techniques.gif?auto=compress,format">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineethreddy1997&label=Profile%20views&color=0e75b6&style=flat" alt="vineethreddy1997" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gangulavineeth1" target="blank"><img src="https://img.shields.io/twitter/follow/gangulavineeth1?logo=twitter&style=for-the-badge" alt="gangulavineeth1" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analytics and Data Science Projects(Open Source Development!)**
+- 🤝🔭 I’m looking to Contribute  **Python,Data Analytics,Machine Learning,Deep Learning,NLP,Computer Vision and Data Science Projects  (Open Source Development!) [Websites Link Here](https://linktr.ee/vineethreddy1997)**
 
 - 🌱 I’m currently learning **Advanced Full Stack Data Science Bootcamp**
 
-- 🤝 I’m looking to Contribute **Python,Statistics,ML,DL,NlP,CV contents and Development End to End projects for New Learners**
-
 - 👨‍💻 All of my projects are available at [https://github.com/VineethReddy1997](https://github.com/VineethReddy1997)
 
-- 👨‍💻 Currently I am Working on **Creating Websites for Content Development and Data Science Projects (Link will be Comming Soon..)**
-
-- 💬 Ask me about **Python, Machine Learning, Deep Learning and Nlp**
+- 💬 Ask me about **Python,R,SQL,PySpark, Machine Learning, Deep Learning ,Nature Learning Processing and Computer Vision**
 
 - 📫 How to reach me **vineethreddygangula234@gmail.com**
 
