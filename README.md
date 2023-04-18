@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/gangulavineeth1" target="blank"><img src="https://img.shields.io/twitter/follow/gangulavineeth1?logo=twitter&style=for-the-badge" alt="gangulavineeth1" /></a> </p>
 
-- 🤝🔭 I’m looking to Contribute  **Python,Data Analytics,Machine Learning,Deep Learning,NLP,Computer Vision and Data Science Projects  (Open Source Development!) [Websites Link Here](https://linktr.ee/vineethreddy1997)**
+- 🤝🔭 I’m working to Contribute  **Python,Data Analytics,Machine Learning,Deep Learning,NLP,Computer Vision and Data Science Projects  (Open Source Development!) [Websites Link Here](https://linktr.ee/vineethreddy1997)**
 
-- 🌱 I’m currently learning **Advanced Full Stack Data Science Bootcamp**
+- 🌱 I’m currently learning **Advanced Full Stack Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VineethReddy1997](https://github.com/VineethReddy1997)
 
