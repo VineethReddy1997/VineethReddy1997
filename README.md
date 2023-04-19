@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advanced Full Stack Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VineethReddy1997](https://github.com/VineethReddy1997)
+- 👨‍💻 All of my projects are available in this link  [https://github.com/VineethReddy1997](https://github.com/VineethReddy1997)
 
 - 💬 Ask me about **Python,R,SQL,PySpark, Machine Learning, Deep Learning ,Nature Learning Processing and Computer Vision**
 
