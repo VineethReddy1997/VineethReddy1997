@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available in this link  [https://github.com/VineethReddy1997](https://github.com/VineethReddy1997)
 
-- 💬 Ask me about **Python,R,SQL,PySpark, Machine Learning, Deep Learning ,Nature Learning Processing and Computer Vision**
+- 💬 Ask me about **Python, R, SQL, PySpark, Machine Learning, Deep Learning ,Natural language processing and Computer Vision**
 
 - 📫 How to reach me **vineethreddygangula234@gmail.com**
 
-- ⚡  **😴 Fun Fact about me, I used to listen music during the time of coding!**
+- ⚡  **😴 Fun Fact about me, !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
