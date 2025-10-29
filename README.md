@@ -90,7 +90,6 @@
 
 ## ⚡ Fun Fact  
 > I can code for hours — but also love relaxing with a Hollywood movies & filter coffee 😄
-
 ---
 
 <div align="center">
